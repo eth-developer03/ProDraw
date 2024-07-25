@@ -13,6 +13,9 @@ dist-ssr
 dist-electron
 release
 *.local
+electron
+electron-builder.json5
+README.md 
 
 # Editor directories and files
 .vscode/*
@@ -24,8 +27,5 @@ release
 *.njsproj
 *.sln
 *.sw?
-electron
-dist-electron
-electron-builder.json5
-README.md 
+
 
