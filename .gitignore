@@ -11,7 +11,7 @@ node_modules
 dist
 dist-ssr
 dist-electron
-electron
+electron/
 electron-builder.json5
 release
 *.local
