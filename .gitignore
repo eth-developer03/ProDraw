@@ -24,3 +24,8 @@ release
 *.njsproj
 *.sln
 *.sw?
+electron
+dist-electron
+electron-builder.json5
+README.md 
+
